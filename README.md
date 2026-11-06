@@ -22,4 +22,4 @@ I build where software meets hardware: firmware for an electric race car, percep
 `Python` `TypeScript` `C/C++` `Java` `Swift` `SQL` · `Next.js` `React` `FastAPI` `Convex` · `STM32` `ESP32` `CAN Bus` · `Supabase` `Neo4j` `Vercel`
 
 #### Find me
-[LinkedIn](https://www.linkedin.com/in/kunjalpurohit) · [Portfolio](https://kunjal-purohit.vercel.app) · kunjalp126@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kunjalpurohit) · [Portfolio](https://kunjal-purohit.vercel.app) · [kunjalp126@gmail.com](mailto:kunjalp126@gmail.com)
